@@ -1,0 +1,4 @@
+RotateImages
+============
+
+Browser extension
