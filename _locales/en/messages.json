@@ -1,0 +1,262 @@
+{
+	"manifest_description" : 
+	{
+		"message" : "Rotate and flip images in the browser.",
+		"description" : "Manifest JSON description string"
+	},
+	"settings_popup_install" : 
+	{
+		"message" : "Rotate Images has been installed. Please, take a look at the Settings!",
+		"description" : "Install/update popup"
+	},
+	"settings_popup_update" : 
+	{
+		"message" : "Rotate Images has been updated. Please, take a look at the Changelog to find out what's new!",
+		"description" : "Install/update popup"
+	},
+	"settings_duration_warning" : 
+	{
+		"message" : "Duration value must be between 0 and 1000 milliseconds!",
+		"description" : "Out of range duration warning"
+	},
+	"settings_key_warning" : 
+	{
+		"message" : "You have set one key for multiple actions!",
+		"description" : "Multiple shortcut warning"
+	},
+	"settings_sidebar_menuitem_settings" : 
+	{
+		"message" : "Settings",
+		"description" : "Sidebar menu"
+	},
+	"settings_sidebar_menuitem_help" : 
+	{
+		"message" : "Help",
+		"description" : "Sidebar menu"
+	},
+	"settings_sidebar_menuitem_changelog" : 
+	{
+		"message" : "Changelog",
+		"description" : "Sidebar menu"
+	},
+	"settings_sidebar_menuitem_credits" : 
+	{
+		"message" : "Credits",
+		"description" : "Sidebar menu"
+	},
+	"settings_content_preferences_header" : 
+	{
+		"message" : "Preferences",
+		"description" : "Preferences header"
+	},
+	"settings_content_preferences_transitionDuration" : 
+	{
+		"message" : "Transition duration:",
+		"description" : "Preferences body"
+	},
+	"settings_content_preferences_transitionUnit" : 
+	{
+		"message" : "ms",
+		"description" : "Preferences body"
+	},
+	"settings_content_preferences_transitionTiming" : 
+	{
+		"message" : "Transition timing:",
+		"description" : "Preferences body"
+	},
+	"settings_content_keys_header" : 
+	{
+		"message" : "Shortcuts",
+		"description" : "Shortcuts header"
+	},
+	"settings_content_keys_left90" : 
+	{
+		"message" : "90° to left",
+		"description" : "Shortcuts body"
+	},
+	"settings_content_keys_right90" : 
+	{
+		"message" : "90° to right",
+		"description" : "Shortcuts body"
+	},
+	"settings_content_keys_left1" : 
+	{
+		"message" : "1° to left",
+		"description" : "Shortcuts body"
+	},
+	"settings_content_keys_right1" : 
+	{
+		"message" : "1° to right",
+		"description" : "Shortcuts body"
+	},
+	"settings_content_keys_fliph" : 
+	{
+		"message" : "Horizontal flip",
+		"description" : "Shortcuts body"
+	},
+	"settings_content_keys_flipv" : 
+	{
+		"message" : "Vertical flip",
+		"description" : "Shortcuts body"
+	},
+	"settings_content_keys_original" : 
+	{
+		"message" : "Back to original position",
+		"description" : "Shortcuts body"
+	},
+	"settings_content_keys_info" : 
+	{
+		"message" : "Show info",
+		"description" : "Shortcuts body"
+	},
+	"settings_content_control_header" : 
+	{
+		"message" : "Save / reset",
+		"description" : "Control header"
+	},
+	"settings_content_control_save" : 
+	{
+		"message" : "Save",
+		"description" : "Control body"
+	},
+	"settings_content_control_reset" : 
+	{
+		"message" : "Reset",
+		"description" : "Control body"
+	},
+	"settings_content_howToUse_header" : 
+	{
+		"message" : "How to use",
+		"description" : "How to use header"
+	},
+	"settings_content_howToUse_open" : 
+	{
+		"message" : "Open the image in a new tab then use the shortcuts.",
+		"description" : "How to use body"
+	},
+	"settings_content_howToUse_transition" : 
+	{
+		"message" : "Set the duration and the timing of the transition to achive nicer and smoother animation.",
+		"description" : "How to use body"
+	},
+	"settings_content_performance_header" : 
+	{
+		"message" : "Performance issues",
+		"description" : "Performance issues header"
+	},
+	"settings_content_performance_lag" : 
+	{
+		"message" : "If you have a weaker machine and you experience lag, set the duration of the transition to 0!",
+		"description" : "Performance issues body"
+	},
+	"settings_content_notes_header" : 
+	{
+		"message" : "Notes",
+		"description" : "Notes header"
+	},
+	"settings_content_notes_howItWorks" : 
+	{
+		"message" : "Rotate Images looks for image filename extensions in the URL. If the server tricks with the filename, this addon may not work.",
+		"description" : "Notes body"
+	},
+	"settings_content_notes_currentSupport" : 
+	{
+		"message" : "Rotate Images currently supports the following image types:",
+		"description" : "Notes body"
+	},
+	"settings_content_notes_operaPolicy" : 
+	{
+		"message" : "According to Opera's policy, extensions don't work on internal browser pages like Settings, History or this page.",
+		"description" : "Notes body"
+	},
+	"settings_content_credits_header" : 
+	{
+		"message" : "Credits",
+		"description" : "Credits header"
+	},
+	"settings_content_credits_createdBy" : 
+	{
+		"message" : "Rotate Images is created by <a href=\"http://tothrobert.ininet.hu\" target=\"_blank\">Robert Toth</a>.",
+		"description" : "Credits body"
+	},
+	"settings_content_credits_copyCode" : 
+	{
+		"message" : "Besides my own coding I use some layout and style from the internal pages made by Opera Software ASA.",
+		"description" : "Credits body"
+	},
+	"settings_content_credits_thanks" : 
+	{
+		"message" : "Thanks for every contributor! <em>(See the changelog for details!)</em>",
+		"description" : "Credits body"
+	},
+	"settings_content_warning_header" : 
+	{
+		"message" : "Warning",
+		"description" : "Warning header"
+	},
+	"settings_content_warning_notResponsible" : 
+	{
+		"message" : "This extension was not made by Opera Software ASA. The company is not responsible for any of the errors.",
+		"description" : "Warning body"
+	},
+	"settings_content_license_header" : 
+	{
+		"message" : "License",
+		"description" : "License header"
+	},
+	"settings_content_license_share" : 
+	{
+		"message" : "You can share this extension, but I ask you to link the download page instead of copying the NEX file.",
+		"description" : "License body"
+	},
+	"settings_content_license_copy" : 
+	{
+		"message" : "You can copy and modify the code of this extension as long as it's free and you use the proper credits.",
+		"description" : "License body"
+	},
+	"settings_content_contact_header" : 
+	{
+		"message" : "Contact",
+		"description" : "Contact header"
+	},
+	"settings_content_contact_feedback1" : 
+	{
+		"message" : "<a href=\"https://addons.opera.com/en/extensions/details/rotate-images/\" target=\"_blank\">Opera Addon Catalog</a>",
+		"description" : "Contact body"
+	},
+	"settings_content_contact_feedback2" : 
+	{
+		"message" : "<a href=\"https://github.com/Nekomajin42/Rotate-Images\" target=\"_blank\">GitHub</a>",
+		"description" : "Contact body"
+	},
+	"settings_content_contact_email" : 
+	{
+		"message" : "<a href=\"mailto:nekomajin42@gmail.com\">Email</a>",
+		"description" : "Contact body"
+	},
+	"settings_content_permissions_header" : 
+	{
+		"message" : "Permissions",
+		"description" : "Permissions header"
+	},
+	"settings_content_permissions_tabs" : 
+	{
+		"message" : "Rotate Images needs permission to access your tabs only to open the settings page when the extension is installed or updated.",
+		"description" : "Permissions body"
+	},
+	"settings_content_permissions_data" : 
+	{
+		"message" : "Rotate Images needs permission to access your data to get access to the images.",
+		"description" : "Permissions body"
+	},
+	"contentScript_info_rotate" : 
+	{
+		"message" : "Rotated by:",
+		"description" : "Content script popup"
+	},
+	"contentScript_info_flip" : 
+	{
+		"message" : "Flipped by:",
+		"description" : "Content script popup"
+	}
+}

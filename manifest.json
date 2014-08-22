@@ -1,0 +1,43 @@
+{
+	"name": "Rotate Images",
+	"developer": 
+	{
+		"name" : "Nekomajin",
+		"url" : "http://tothrobert.ininet.hu"
+	},
+	"description" : "__MSG_manifest_description__",
+	"default_locale": "en",
+	"manifest_version" : 2,
+	"version" : "2.2",
+	"background" : 
+	{
+		"scripts" : ["background.js"],
+		"persistent" : false
+	},
+	"icons" : 
+	{
+		"16": "icons/icon16.png",  
+		"32": "icons/icon32.png", 
+		"64": "icons/icon64.png",  
+		"128": "icons/icon128.png"
+	},
+	"options_page" : "options/options.html",
+	"content_scripts": 
+	[
+		{
+			"js": ["rotate_images.js"], 
+			"matches": ["<all_urls>"], 
+			"include_globs": ["*.bmp*", "*.gif*", "*.ico*", "*.jpg*", "*.jpeg*", "*.png*", "*.tif*", "*.tiff*", "*.webp*"], 
+			"exclude_globs": [], 
+			"run_at": "document_idle", 
+			"all_frames" : false
+		}
+	],
+	"permissions" : 
+	[
+		"tabs", 
+		"https://*/*", 
+		"http://*/*"
+	],
+	"content_security_policy": "script-src 'self'; object-src 'self'"
+}

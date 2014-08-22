@@ -1,0 +1,262 @@
+{
+	"manifest_description" : 
+	{
+		"message" : "Forgasd és tükrözd a képeket a böngészőben!",
+		"description" : "Manifest JSON description string"
+	},
+	"settings_popup_install" : 
+	{
+		"message" : "A Rotate Images beépült a böngészőbe. Kérlek, vess egy pillantást a Beállításokra!",
+		"description" : "Install/update popup"
+	},
+	"settings_popup_update" : 
+	{
+		"message" : "A Rotate Images frissült. Kérlek, vess egy pillantást a Változáslistára az újdonságokért!",
+		"description" : "Install/update popup"
+	},
+	"settings_duration_warning" : 
+	{
+		"message" : "Az időtartam 0 és 1000 ezredmásodperc közötti érték lehet!",
+		"description" : "Out of range duration warning"
+	},
+	"settings_key_warning" : 
+	{
+		"message" : "Egy billentyűre több feladatot állítottál be!",
+		"description" : "Multiple shortcut warning"
+	},
+	"settings_sidebar_menuitem_settings" : 
+	{
+		"message" : "Beállítások",
+		"description" : "Sidebar menu"
+	},
+	"settings_sidebar_menuitem_help" : 
+	{
+		"message" : "Súgó",
+		"description" : "Sidebar menu"
+	},
+	"settings_sidebar_menuitem_changelog" : 
+	{
+		"message" : "Változáslista",
+		"description" : "Sidebar menu"
+	},
+	"settings_sidebar_menuitem_credits" : 
+	{
+		"message" : "Névjegy",
+		"description" : "Sidebar menu"
+	},
+	"settings_content_preferences_header" : 
+	{
+		"message" : "Beállítások",
+		"description" : "Preferences header"
+	},
+	"settings_content_preferences_transitionDuration" : 
+	{
+		"message" : "Az átmenet időtartama:",
+		"description" : "Preferences body"
+	},
+	"settings_content_preferences_transitionUnit" : 
+	{
+		"message" : "ms",
+		"description" : "Preferences body"
+	},
+	"settings_content_preferences_transitionTiming" : 
+	{
+		"message" : "Az átmenet időzítése:",
+		"description" : "Preferences body"
+	},
+	"settings_content_keys_header" : 
+	{
+		"message" : "Billentyűparancsok",
+		"description" : "Shortcuts header"
+	},
+	"settings_content_keys_left90" : 
+	{
+		"message" : "90°-kal balra",
+		"description" : "Shortcuts body"
+	},
+	"settings_content_keys_right90" : 
+	{
+		"message" : "90°-kal jobbra",
+		"description" : "Shortcuts body"
+	},
+	"settings_content_keys_left1" : 
+	{
+		"message" : "1°-kal balra",
+		"description" : "Shortcuts body"
+	},
+	"settings_content_keys_right1" : 
+	{
+		"message" : "1°-kal jobbra",
+		"description" : "Shortcuts body"
+	},
+	"settings_content_keys_fliph" : 
+	{
+		"message" : "Vízszintes tükrözés",
+		"description" : "Shortcuts body"
+	},
+	"settings_content_keys_flipv" : 
+	{
+		"message" : "Függőleges tükrözés",
+		"description" : "Shortcuts body"
+	},
+	"settings_content_keys_original" : 
+	{
+		"message" : "Vissza az eredeti pozícióba",
+		"description" : "Shortcuts body"
+	},
+	"settings_content_keys_info" : 
+	{
+		"message" : "Információ",
+		"description" : "Shortcuts body"
+	},
+	"settings_content_control_header" : 
+	{
+		"message" : "Mentés / visszaállítás",
+		"description" : "Control header"
+	},
+	"settings_content_control_save" : 
+	{
+		"message" : "Mentés",
+		"description" : "Control body"
+	},
+	"settings_content_control_reset" : 
+	{
+		"message" : "Visszaállítás",
+		"description" : "Control body"
+	},
+	"settings_content_howToUse_header" : 
+	{
+		"message" : "Így használd",
+		"description" : "How to use header"
+	},
+	"settings_content_howToUse_open" : 
+	{
+		"message" : "Nyisd meg a képet egy új fülön, majd használd a billentyűparancsokat!",
+		"description" : "How to use body"
+	},
+	"settings_content_howToUse_transition" : 
+	{
+		"message" : "Állítsd be a megfelelő időtartamot és időzítést, hogy szép és folyamatos animációt láss!",
+		"description" : "How to use body"
+	},
+	"settings_content_performance_header" : 
+	{
+		"message" : "Teljesítménybeli problémák",
+		"description" : "Performance issues header"
+	},
+	"settings_content_performance_lag" : 
+	{
+		"message" : "Ha gyenge számítógéped van, és a forgatás közben szaggatást tapasztalsz, akkor állítsd az időtartamot 0-ra!",
+		"description" : "Performance issues body"
+	},
+	"settings_content_notes_header" : 
+	{
+		"message" : "Megjegyzések",
+		"description" : "Notes header"
+	},
+	"settings_content_notes_howItWorks" : 
+	{
+		"message" : "A Rotate Images a képfájlok kiterjesztését keresi az URL-ben. Ha a szerver trükközik a fájl nevével, akkor ez a bővítmény lehet, hogy nem fog működni.",
+		"description" : "Notes body"
+	},
+	"settings_content_notes_currentSupport" : 
+	{
+		"message" : "A Rotate Images jelenleg a következő képformátumokat ismeri fel:",
+		"description" : "Notes body"
+	},
+	"settings_content_notes_operaPolicy" : 
+	{
+		"message" : "Az Opera irányelvei alapján a bővítmények nem működnek a böngésző belső lapjain, például a Beállításokban, az Előzményekben vagy ezen az oldalon.",
+		"description" : "Notes body"
+	},
+	"settings_content_credits_header" : 
+	{
+		"message" : "Névjegy",
+		"description" : "Credits header"
+	},
+	"settings_content_credits_createdBy" : 
+	{
+		"message" : "A Rotate Images-t <a href=\"http://tothrobert.ininet.hu\" target=\"_blank\">Tóth Róbert</a> fejleszti.",
+		"description" : "Credits body"
+	},
+	"settings_content_credits_copyCode" : 
+	{
+		"message" : "Az általam írt kódon kívül az Opera belső lapjait felépítő kódok egy részét is felhasználtam.",
+		"description" : "Credits body"
+	},
+	"settings_content_credits_thanks" : 
+	{
+		"message" : "Köszönet mindenkinek, aki hozzájárult a bővítményhez. <em>(A részleteket lásd a Változáslistában!)</em>",
+		"description" : "Credits body"
+	},
+	"settings_content_warning_header" : 
+	{
+		"message" : "Figyelem",
+		"description" : "Warning header"
+	},
+	"settings_content_warning_notResponsible" : 
+	{
+		"message" : "Ez a bővítmény nem az Opera Software ASA terméke. A cég nem felelős a bővítmény esetleges hibáiért.",
+		"description" : "Warning body"
+	},
+	"settings_content_license_header" : 
+	{
+		"message" : "Licenc",
+		"description" : "License header"
+	},
+	"settings_content_license_share" : 
+	{
+		"message" : "Szabadon terjesztheted a bővítményt, de arra kérlek, hogy ne a NEX fájlt másold, hanem a letöltési oldal linkjét.",
+		"description" : "License body"
+	},
+	"settings_content_license_copy" : 
+	{
+		"message" : "Szabadon másolhatod és módosíthatod a bővítmény forráskódját mindaddig, amíg nem kérsz érte pénzt, és megfelelően hivatkozol a forrásra.",
+		"description" : "License body"
+	},
+	"settings_content_contact_header" : 
+	{
+		"message" : "Kapcsolat",
+		"description" : "Contact header"
+	},
+	"settings_content_contact_feedback1" : 
+	{
+		"message" : "<a href=\"https://addons.opera.com/en/extensions/details/rotate-images/\" target=\"_blank\">Opera Addon Katalógus</a>",
+		"description" : "Contact body"
+	},
+	"settings_content_contact_feedback2" : 
+	{
+		"message" : "<a href=\"https://github.com/Nekomajin42/Rotate-Images\" target=\"_blank\">GitHub</a>",
+		"description" : "Contact body"
+	},
+	"settings_content_contact_email" : 
+	{
+		"message" : "<a href=\"mailto:nekomajin42@gmail.com\">Email</a>",
+		"description" : "Contact body"
+	},
+	"settings_content_permissions_header" : 
+	{
+		"message" : "Engedélyek",
+		"description" : "Permissions header"
+	},
+	"settings_content_permissions_tabs" : 
+	{
+		"message" : "A Rotate Images csak azért kér hozzáférést a lapokhoz, hogy meg tudja nyitni a Beállítások oldalt a bővítmény telepítése és frissítése után.",
+		"description" : "Permissions body"
+	},
+	"settings_content_permissions_data" : 
+	{
+		"message" : "A Rotate Images azért kér hozzáférést a webhelyekhez, hogy el tudja érni a képeket.",
+		"description" : "Permissions body"
+	},
+	"contentScript_info_rotate" : 
+	{
+		"message" : "Elforgatva:",
+		"description" : "Content script popup"
+	},
+	"contentScript_info_flip" : 
+	{
+		"message" : "Tükrözve:",
+		"description" : "Content script popup"
+	}
+}
